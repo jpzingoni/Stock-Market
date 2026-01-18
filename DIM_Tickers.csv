@@ -1,0 +1,32 @@
+TickerYahoo,Name,QuoteType,Sector,Industry,Currency,Exchange,Country
+AAPL,Apple Inc.,EQUITY,Technology,Consumer Electronics,USD,NMS,United States
+MSFT,Microsoft Corporation,EQUITY,Technology,Software - Infrastructure,USD,NMS,United States
+GOOGL,Alphabet Inc.,EQUITY,Communication Services,Internet Content & Information,USD,NMS,United States
+AMZN,"Amazon.com, Inc.",EQUITY,Consumer Cyclical,Internet Retail,USD,NMS,United States
+META,"Meta Platforms, Inc.",EQUITY,Communication Services,Internet Content & Information,USD,NMS,United States
+NVDA,NVIDIA Corporation,EQUITY,Technology,Semiconductors,USD,NMS,United States
+TSLA,"Tesla, Inc.",EQUITY,Consumer Cyclical,Auto Manufacturers,USD,NMS,United States
+ORCL,Oracle Corporation,EQUITY,Technology,Software - Infrastructure,USD,NYQ,United States
+PLTR,Palantir Technologies Inc.,EQUITY,Technology,Software - Infrastructure,USD,NMS,United States
+RDDT,"Reddit, Inc.",EQUITY,Communication Services,Internet Content & Information,USD,NYQ,United States
+MU,"Micron Technology, Inc.",EQUITY,Technology,Semiconductors,USD,NMS,United States
+AMD,"Advanced Micro Devices, Inc.",EQUITY,Technology,Semiconductors,USD,NMS,United States
+TSM,Taiwan Semiconductor Manufacturing Company Limited,EQUITY,Technology,Semiconductors,USD,NYQ,Taiwan
+SPY,SPDR S&P 500 ETF,ETF,,,USD,PCX,
+QQQ,Invesco QQQ Trust,ETF,,,USD,NGM,
+DIA,SPDR Dow Jones Industrial Average ETF Trust,ETF,,,USD,PCX,
+IWM,iShares Russell 2000 ETF,ETF,,,USD,PCX,
+EEM,iShares MSCI Emerging Markets ETF,ETF,,,USD,PCX,
+VEA,Vanguard FTSE Developed Markets Index Fund ETF Shares,ETF,,,USD,PCX,
+XLK,State Street Technology Select Sector SPDR ETF,ETF,,,USD,PCX,
+XLE,State Street Energy Select Sector SPDR ETF,ETF,,,USD,PCX,
+XLF,State Street Financial Select Sector SPDR ETF,ETF,,,USD,PCX,
+XLV,State Street Health Care Select Sector SPDR ETF,ETF,,,USD,PCX,
+GLD,SPDR Gold Shares,ETF,,,USD,PCX,
+SLV,iShares Silver Trust,ETF,,,USD,PCX,
+USO,"United States Oil Fund, LP",ETF,,,USD,PCX,
+EWZ,iShares MSCI Brazil ETF,ETF,,,USD,PCX,
+URA,Global X Uranium ETF,ETF,,,USD,PCX,
+SOXX,iShares Semiconductor ETF,ETF,,,USD,NGM,
+BTC-USD,Bitcoin USD,CRYPTOCURRENCY,,,USD,CCC,
+ETH-USD,Ethereum USD,CRYPTOCURRENCY,,,USD,CCC,
